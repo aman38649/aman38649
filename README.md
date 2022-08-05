@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aman38649
 - 👀 I’m interested in Data Science and Machine Leaning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science Related Projects
 - 📫 How to reach me aman38649@gmail.com or via Linkedin https://www.linkedin.com/in/aman-jain-256502209/
 
