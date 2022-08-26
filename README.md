@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aman38649
+- 👋 Hi, I’m Aman Jain
 - 👀 I’m interested in Data Science and Machine Leaning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science Related Projects
